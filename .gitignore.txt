@@ -1,0 +1,20 @@
+# Altium generated folders
+**/History/
+**/__Previews/
+**/Project Outputs*/
+**/GeneratedOutput/
+
+# Altium generated/temporary files
+*.SchDocPreview
+*.PcbDocPreview
+*.PrjPCBStructure
+*.PrjPcbStructure
+*.DsnWrk
+*.DesWrk
+~*
+*.tmp
+*.bak
+
+# OS junk
+Thumbs.db
+.DS_Store

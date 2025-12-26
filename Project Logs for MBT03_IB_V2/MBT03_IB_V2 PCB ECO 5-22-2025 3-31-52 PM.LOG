@@ -1,0 +1,626 @@
+Added Component: Designator=AMS1(SOT223)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000596"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "AMS1117-3.3V SOT223"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found Cap 0603
+Add Component: Footprint Not Found Cap 0603
+Add Component: Footprint Not Found Cap 0603
+Add Component: Footprint Not Found Cap 0603
+Add Component: Footprint Not Found Cap 1206
+Add Component: Footprint Not Found Cap 0603
+Add Component: Footprint Not Found Cap 0603
+Add Component: Footprint Not Found Cap 0603
+Add Component: Footprint Not Found Cap 0603
+Add Component: Footprint Not Found Cap 0603
+Add Component: Footprint Not Found Cap 0603
+Add Component: Footprint Not Found Cap 0603
+Add Component: Footprint Not Found Cap 1206
+Add Component: Footprint Not Found Cap 1206
+Add Component: Footprint Not Found Cap 1206
+Add Component: Footprint Not Found Cap 0603
+Add Component: Footprint Not Found Cap 0603
+Add Component: Footprint Not Found Cap 1206
+Add Component: Footprint Not Found Cap 0603
+Add Component: Footprint Not Found Cap 0805
+Add Component: Footprint Not Found Cap 0603
+Add Component: Footprint Not Found Cap 1206
+Add Component: Footprint Not Found tu hoa 8mm
+Add Component: Footprint Not Found Cap 1206
+Add Component: Footprint Not Found tu hoa 8mm
+Add Component: Footprint Not Found Cap 0603
+Added Component: Designator=CN1(USB-B_61400416121)
+Add component (AddParameter): Name = "Category"; Value = "Connectors, Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://katalog.we-online.de/em/datasheet/61400416121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://katalog.we-online.de/em/datasheet/61400416121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "USB - B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Board Lock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ingress Protection"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Color"; Value = "White"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronics Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "61400416121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Cycles"; Value = "1500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Feature"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole, Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.32, 10=1.165, 50=1.098, 100=0.986, 250=0.896 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shell/Shielding Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "Shielded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specifications"; Value = "USB 2.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "3084"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "732-2108-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "30V"; VariantName = "[No Variations]"
+Added Component: Designator=D1(DIODE ZENNER SMD SOD80)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002880"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Diode Zener 1/2W 3.3V SMD1206 ZMM3.3"; VariantName = "[No Variations]"
+Added Component: Designator=D2(DIODE SMA)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Diode SS34 3A 40V SMA ( 1N5822 SS34A)"; VariantName = "[No Variations]"
+Added Component: Designator=F1(tro smd 1206)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005886"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 1206 1% 10R"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found XH2.54M-4
+Add Component: Footprint Not Found XH2.54M-4
+Add Component: Footprint Not Found XH2.54M-2
+Add Component: Footprint Not Found XH2.54M-2
+Add Component: Footprint Not Found XH2.54M-4
+Added Component: Designator=H6(XH2.54M-3)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001292"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 3P XH2.54-3P Ð?c Th?ng"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found XH2.54M-4
+Added Component: Designator=I1(TO-252)
+Added Component: Designator=I2(TO-252)
+Added Component: Designator=I3(TO-252)
+Added Component: Designator=I4(TO-252)
+Added Component: Designator=I5(TO-252)
+Added Component: Designator=I6(TO-252)
+Added Component: Designator=I7(TO-252)
+Added Component: Designator=I8(TO-252)
+Added Component: Designator=IR1(TO-252)
+Added Component: Designator=J1(pad_4.5x4.5_hole_2.5mm)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.molex.com/cmc_upload/common_files/1212003_42878catalogpage.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "20-Nov-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DrillSize"; Value = "Nominal, Rounded to nearest 0.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "20-Nov-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "42878-4410"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB_Layout"; Value = "Complies with Manufacturer's Recommendation."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB_Mounting"; Value = "Thru-Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB_Thickness"; Value = "0.125""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PerformanceCategory"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions/Loaded"; Value = "Port1 - 4/2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "25-Jun-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J2(pad_4.5x4.5_hole_2.5mm)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.molex.com/cmc_upload/common_files/1212003_42878catalogpage.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "20-Nov-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DrillSize"; Value = "Nominal, Rounded to nearest 0.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "20-Nov-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "42878-4410"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB_Layout"; Value = "Complies with Manufacturer's Recommendation."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB_Mounting"; Value = "Thru-Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB_Thickness"; Value = "0.125""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PerformanceCategory"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions/Loaded"; Value = "Port1 - 4/2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "25-Jun-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J3(pad_4.5x4.5_hole_2.5mm)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.molex.com/cmc_upload/common_files/1212003_42878catalogpage.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "20-Nov-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DrillSize"; Value = "Nominal, Rounded to nearest 0.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "20-Nov-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "42878-4410"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB_Layout"; Value = "Complies with Manufacturer's Recommendation."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB_Mounting"; Value = "Thru-Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB_Thickness"; Value = "0.125""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PerformanceCategory"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions/Loaded"; Value = "Port1 - 4/2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "25-Jun-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J4(pad_4.5x4.5_hole_2.5mm)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.molex.com/cmc_upload/common_files/1212003_42878catalogpage.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "20-Nov-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DrillSize"; Value = "Nominal, Rounded to nearest 0.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "20-Nov-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "42878-4410"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB_Layout"; Value = "Complies with Manufacturer's Recommendation."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB_Mounting"; Value = "Thru-Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB_Thickness"; Value = "0.125""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PerformanceCategory"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions/Loaded"; Value = "Port1 - 4/2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "25-Jun-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J5(pad_4.5x4.5_hole_2.5mm)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.molex.com/cmc_upload/common_files/1212003_42878catalogpage.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "20-Nov-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DrillSize"; Value = "Nominal, Rounded to nearest 0.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "20-Nov-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "42878-4410"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB_Layout"; Value = "Complies with Manufacturer's Recommendation."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB_Mounting"; Value = "Thru-Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB_Thickness"; Value = "0.125""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PerformanceCategory"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions/Loaded"; Value = "Port1 - 4/2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "25-Jun-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J6(pad_4.5x4.5_hole_2.5mm)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.molex.com/cmc_upload/common_files/1212003_42878catalogpage.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "20-Nov-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DrillSize"; Value = "Nominal, Rounded to nearest 0.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "20-Nov-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "42878-4410"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB_Layout"; Value = "Complies with Manufacturer's Recommendation."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB_Mounting"; Value = "Thru-Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB_Thickness"; Value = "0.125""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PerformanceCategory"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions/Loaded"; Value = "Port1 - 4/2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "25-Jun-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found XT30U
+Added Component: Designator=JQB1(JQ BOARD)
+Add Component: Footprint Not Found LED-0805-Red
+Added Component: Designator=L2(0630_Inductor)
+Added Component: Designator=MD1(MODULE 12V5A)
+Add Component: Footprint Not Found RES 0603
+Add Component: Footprint Not Found RES 0603
+Add Component: Footprint Not Found RES 0603
+Add Component: Footprint Not Found RES 0603
+Add Component: Footprint Not Found RES 0603
+Add Component: Footprint Not Found RES 0603
+Add Component: Footprint Not Found RES 0603
+Add Component: Footprint Not Found RES 0603
+Add Component: Footprint Not Found RES 0603
+Add Component: Footprint Not Found RES 0603
+Add Component: Footprint Not Found RES 0603
+Add Component: Footprint Not Found tro smd 1206
+Add Component: Footprint Not Found RES 0603
+Add Component: Footprint Not Found RES 0603
+Add Component: Footprint Not Found RES 0603
+Add Component: Footprint Not Found RES 0603
+Add Component: Footprint Not Found RES 0603
+Add Component: Footprint Not Found tro smd 0603
+Add Component: Footprint Not Found tro smd 0603
+Add Component: Footprint Not Found tro smd 0603
+Add Component: Footprint Not Found tro smd 0603
+Add Component: Footprint Not Found tro smd 0603
+Add Component: Footprint Not Found tro smd 0603
+Add Component: Footprint Not Found tro smd 0603
+Add Component: Footprint Not Found tro smd 0603
+Add Component: Footprint Not Found tro smd 0603
+Add Component: Footprint Not Found tro smd 0603
+Add Component: Footprint Not Found tro smd 0603
+Add Component: Footprint Not Found tro smd 0603
+Add Component: Footprint Not Found tro smd 0603
+Add Component: Footprint Not Found tro smd 0603
+Add Component: Footprint Not Found tro smd 0603
+Add Component: Footprint Not Found tro smd 0603
+Add Component: Footprint Not Found tro smd 0603
+Add Component: Footprint Not Found tro smd 0603
+Add Component: Footprint Not Found tro smd 0603
+Add Component: Footprint Not Found tro smd 0603
+Add Component: Footprint Not Found RES 0603
+Add Component: Footprint Not Found RES 0603
+Add Component: Footprint Not Found RES 0603
+Add Component: Footprint Not Found RES 0603
+Add Component: Footprint Not Found RES 0603
+Add Component: Footprint Not Found RES 0603
+Add Component: Footprint Not Found RES 0603
+Add Component: Footprint Not Found RES 0603
+Add Component: Footprint Not Found RES 0603
+Add Component: Footprint Not Found RES 0603
+Add Component: Footprint Not Found RES 0603
+Add Component: Footprint Not Found RES 0603
+Add Component: Footprint Not Found RES 0603
+Add Component: Footprint Not Found RES 0603
+Add Component: Footprint Not Found RES 0603
+Added Component: Designator=T1(SOT - 23)
+Added Component: Designator=T2(SOT - 23)
+Added Component: Designator=T3(TO 247 AC)
+Added Component: Designator=T4(SOT - 23)
+Added Component: Designator=T5(SOT - 23)
+Added Component: Designator=T6(TO 247 AC)
+Added Component: Designator=T7(SOT - 23)
+Added Component: Designator=T8(SOT - 23)
+Added Component: Designator=T9(TO 247 AC)
+Added Component: Designator=T10(SOT - 23)
+Added Component: Designator=T11(SOT - 23)
+Added Component: Designator=T12(TO 247 AC)
+Added Component: Designator=T13(SOT - 23)
+Added Component: Designator=T14(SOT - 23)
+Added Component: Designator=T15(SOT - 23)
+Added Component: Designator=U1(LQFP48_L)
+Add component (AddParameter): Name = "Base Part Number"; Value = "STM32F103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Integrated Circuits (ICs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://media.digikey.com/pdf/Data%20Sheets/ST%20Microelectronics%20PDFS/STM32F103x8,B.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://media.digikey.com/pdf/Data%20Sheets/ST%20Microelectronics%20PDFS/STM32F103x8,B.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connectivity"; Value = "CAN, I²C, IrDA, LIN, SPI, UART/USART, USB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core Processor"; Value = "ARM® Cortex®-M3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core Size"; Value = "32-Bit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data Converters"; Value = "A/D 10x12b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EEPROM Size"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "STM32F103C8T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 85°C (TA)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Oscillator Type"; Value = "Internal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "48-LQFP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peripherals"; Value = "DMA, Motor Control PWM, PDR, POR, PVD, PWM, Temp Sensor, WDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=6.06, 10=5.438, 100=4.4558, 500=3.7931, 1000=3.199 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Program Memory Size"; Value = "64KB (64K x 8)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Program Memory Type"; Value = "FLASH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RAM Size"; Value = "20K x 8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "72MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "3588"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "497-6063-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply (Vcc/Vdd)"; Value = "2 V ~ 3.6 V"; VariantName = "[No Variations]"
+Added Component: Designator=U2(To263 2L)
+Add Component: Footprint Not Found SOIC-8-EP
+Added Component: Designator=X1(XTAL_SMD5032)
+Add component (AddParameter): Name = "Category 1"; Value = "Crystals, Oscillators, Resonators"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.txccorp.com/download/products/quartz_crystals/2015TXC_7B_19.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.txccorp.com/download/products/quartz_crystals/2015TXC_7B_19.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 1"; Value = "CRYSTAL 8.0000MHZ 18PF SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR (Equivalent Series Resistance)"; Value = "100 Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "8MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Stability"; Value = "±30ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Tolerance"; Value = "±30ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.041" (1.05mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Capacitance"; Value = "18pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "TXC CORPORATION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "7B-8.000MAAJ-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Mode"; Value = "Fundamental"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-20°C ~ 70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "4-SMD, No Lead"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.86, 10=0.759, 50=0.7096, 100=0.627, 500=0.594 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS 1"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.197" L x 0.126" W (5.00mm x 3.20mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "21080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "887-1452-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "MHz Crystal"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=AMS1-2
+Added Pin To Net: NetName=+3V3 Pin=AMS1-4
+Added Pin To Net: NetName=+3V3 Pin=U1-1
+Added Pin To Net: NetName=+3V3 Pin=U1-9
+Added Pin To Net: NetName=+3V3 Pin=U1-24
+Added Pin To Net: NetName=+3V3 Pin=U1-36
+Added Pin To Net: NetName=+3V3 Pin=U1-48
+Added Net: Name=+3V3
+Added Pin To Net: NetName=+5VDC_JQ Pin=JQB1-22
+Added Pin To Net: NetName=+5VDC_JQ Pin=JQB1-25
+Added Pin To Net: NetName=+5VDC_JQ Pin=JQB1-28
+Added Pin To Net: NetName=+5VDC_JQ Pin=JQB1-31
+Added Pin To Net: NetName=+5VDC_JQ Pin=JQB1-34
+Added Pin To Net: NetName=+5VDC_JQ Pin=JQB1-37
+Added Net: Name=+5VDC_JQ
+Added Pin To Net: NetName=+5V Pin=AMS1-3
+Added Pin To Net: NetName=+5V Pin=F1-2
+Added Pin To Net: NetName=+5V Pin=T1-2
+Added Net: Name=+5V
+Added Pin To Net: NetName=+12V Pin=L2-2
+Added Pin To Net: NetName=+12V Pin=MD1-4
+Added Pin To Net: NetName=+12V Pin=T2-2
+Added Pin To Net: NetName=+12V Pin=T5-2
+Added Pin To Net: NetName=+12V Pin=T8-2
+Added Pin To Net: NetName=+12V Pin=T11-2
+Added Pin To Net: NetName=+12V Pin=U2-1
+Added Net: Name=+12V
+Added Net: Name=12V FB
+Added Pin To Net: NetName=A1 Pin=U1-11
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=U1-12
+Added Net: Name=A2
+Added Pin To Net: NetName=A_GND Pin=CN1-4
+Added Pin To Net: NetName=A_GND Pin=CN1-5
+Added Pin To Net: NetName=A_GND Pin=CN1-6
+Added Pin To Net: NetName=A_GND Pin=U1-8
+Added Pin To Net: NetName=A_GND Pin=U1-23
+Added Pin To Net: NetName=A_GND Pin=U1-35
+Added Pin To Net: NetName=A_GND Pin=U1-47
+Added Pin To Net: NetName=A_GND Pin=X1-2
+Added Pin To Net: NetName=A_GND Pin=X1-4
+Added Net: Name=A_GND
+Added Pin To Net: NetName=BAT+ Pin=I1-2
+Added Pin To Net: NetName=BAT+ Pin=I3-2
+Added Pin To Net: NetName=BAT+ Pin=I5-2
+Added Pin To Net: NetName=BAT+ Pin=I7-2
+Added Pin To Net: NetName=BAT+ Pin=IR1-3
+Added Pin To Net: NetName=BAT+ Pin=J1-1
+Added Pin To Net: NetName=BAT+ Pin=J4-1
+Added Net: Name=BAT+
+Added Pin To Net: NetName=BAT_EN Pin=IR1-2
+Added Pin To Net: NetName=BAT_EN Pin=MD1-1
+Added Net: Name=BAT_EN
+Added Pin To Net: NetName=BOOT0 Pin=U1-44
+Added Net: Name=BOOT0
+Added Pin To Net: NetName=BOOT1 Pin=U1-20
+Added Net: Name=BOOT1
+Added Pin To Net: NetName=CLK Pin=U1-37
+Added Net: Name=CLK
+Added Pin To Net: NetName=DAC Pin=H6-1
+Added Pin To Net: NetName=DAC Pin=JQB1-19
+Added Net: Name=DAC
+Added Pin To Net: NetName=DIO Pin=U1-34
+Added Net: Name=DIO
+Added Pin To Net: NetName=GND Pin=AMS1-1
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=GND Pin=H6-3
+Added Pin To Net: NetName=GND Pin=I2-1
+Added Pin To Net: NetName=GND Pin=I2-3
+Added Pin To Net: NetName=GND Pin=I4-1
+Added Pin To Net: NetName=GND Pin=I4-3
+Added Pin To Net: NetName=GND Pin=I6-1
+Added Pin To Net: NetName=GND Pin=I6-3
+Added Pin To Net: NetName=GND Pin=I8-1
+Added Pin To Net: NetName=GND Pin=I8-3
+Added Pin To Net: NetName=GND Pin=JQB1-3
+Added Pin To Net: NetName=GND Pin=JQB1-6
+Added Pin To Net: NetName=GND Pin=JQB1-9
+Added Pin To Net: NetName=GND Pin=JQB1-12
+Added Pin To Net: NetName=GND Pin=JQB1-15
+Added Pin To Net: NetName=GND Pin=JQB1-18
+Added Pin To Net: NetName=GND Pin=MD1-2
+Added Pin To Net: NetName=GND Pin=MD1-3
+Added Pin To Net: NetName=GND Pin=T3-3
+Added Pin To Net: NetName=GND Pin=T4-2
+Added Pin To Net: NetName=GND Pin=T6-3
+Added Pin To Net: NetName=GND Pin=T7-2
+Added Pin To Net: NetName=GND Pin=T9-3
+Added Pin To Net: NetName=GND Pin=T10-2
+Added Pin To Net: NetName=GND Pin=T12-3
+Added Pin To Net: NetName=GND Pin=T13-2
+Added Pin To Net: NetName=GND Pin=T14-2
+Added Pin To Net: NetName=GND Pin=T15-2
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Net: Name=GND
+Added Pin To Net: NetName=LED_PC13 Pin=U1-2
+Added Net: Name=LED_PC13
+Added Pin To Net: NetName=NetC12_2 Pin=U1-16
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetC14_1 Pin=F1-1
+Added Pin To Net: NetName=NetC14_1 Pin=U2-3
+Added Net: Name=NetC14_1
+Added Pin To Net: NetName=NetC19_2 Pin=IR1-1
+Added Net: Name=NetC19_2
+Added Pin To Net: NetName=NetC20_1 Pin=D2-2
+Added Pin To Net: NetName=NetC20_1 Pin=L2-1
+Added Net: Name=NetC20_1
+Added Net: Name=NetC20_2
+Added Net: Name=NetC21_1
+Added Net: Name=NetC26_1
+Added Pin To Net: NetName=NetCN1_2 Pin=CN1-2
+Added Net: Name=NetCN1_2
+Added Pin To Net: NetName=NetCN1_3 Pin=CN1-3
+Added Net: Name=NetCN1_3
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=U1-15
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetH6_2 Pin=H6-2
+Added Pin To Net: NetName=NetH6_2 Pin=U1-28
+Added Net: Name=NetH6_2
+Added Net: Name=NetH7_2
+Added Net: Name=NetH7_3
+Added Pin To Net: NetName=NetI1_1 Pin=I1-1
+Added Pin To Net: NetName=NetI1_1 Pin=I1-3
+Added Pin To Net: NetName=NetI1_1 Pin=I2-2
+Added Pin To Net: NetName=NetI1_1 Pin=J2-1
+Added Pin To Net: NetName=NetI1_1 Pin=T3-2
+Added Net: Name=NetI1_1
+Added Pin To Net: NetName=NetI3_1 Pin=I3-1
+Added Pin To Net: NetName=NetI3_1 Pin=I3-3
+Added Pin To Net: NetName=NetI3_1 Pin=I4-2
+Added Pin To Net: NetName=NetI3_1 Pin=J3-1
+Added Pin To Net: NetName=NetI3_1 Pin=T6-2
+Added Net: Name=NetI3_1
+Added Pin To Net: NetName=NetI5_1 Pin=I5-1
+Added Pin To Net: NetName=NetI5_1 Pin=I5-3
+Added Pin To Net: NetName=NetI5_1 Pin=I6-2
+Added Pin To Net: NetName=NetI5_1 Pin=J5-1
+Added Pin To Net: NetName=NetI5_1 Pin=T9-2
+Added Net: Name=NetI5_1
+Added Pin To Net: NetName=NetI7_1 Pin=I7-1
+Added Pin To Net: NetName=NetI7_1 Pin=I7-3
+Added Pin To Net: NetName=NetI7_1 Pin=I8-2
+Added Pin To Net: NetName=NetI7_1 Pin=J6-1
+Added Pin To Net: NetName=NetI7_1 Pin=T12-2
+Added Net: Name=NetI7_1
+Added Pin To Net: NetName=NetJQB1_1 Pin=JQB1-1
+Added Pin To Net: NetName=NetJQB1_1 Pin=U1-41
+Added Net: Name=NetJQB1_1
+Added Pin To Net: NetName=NetJQB1_2 Pin=JQB1-2
+Added Pin To Net: NetName=NetJQB1_2 Pin=U1-42
+Added Net: Name=NetJQB1_2
+Added Pin To Net: NetName=NetJQB1_4 Pin=JQB1-4
+Added Pin To Net: NetName=NetJQB1_4 Pin=U1-43
+Added Net: Name=NetJQB1_4
+Added Pin To Net: NetName=NetJQB1_5 Pin=JQB1-5
+Added Pin To Net: NetName=NetJQB1_5 Pin=U1-45
+Added Net: Name=NetJQB1_5
+Added Pin To Net: NetName=NetJQB1_7 Pin=JQB1-7
+Added Pin To Net: NetName=NetJQB1_7 Pin=U1-46
+Added Net: Name=NetJQB1_7
+Added Pin To Net: NetName=NetJQB1_8 Pin=JQB1-8
+Added Pin To Net: NetName=NetJQB1_8 Pin=U1-21
+Added Net: Name=NetJQB1_8
+Added Pin To Net: NetName=NetJQB1_10 Pin=JQB1-10
+Added Pin To Net: NetName=NetJQB1_10 Pin=U1-22
+Added Net: Name=NetJQB1_10
+Added Pin To Net: NetName=NetJQB1_11 Pin=JQB1-11
+Added Pin To Net: NetName=NetJQB1_11 Pin=U1-25
+Added Net: Name=NetJQB1_11
+Added Pin To Net: NetName=NetJQB1_13 Pin=JQB1-13
+Added Pin To Net: NetName=NetJQB1_13 Pin=U1-26
+Added Net: Name=NetJQB1_13
+Added Pin To Net: NetName=NetJQB1_14 Pin=JQB1-14
+Added Pin To Net: NetName=NetJQB1_14 Pin=U1-27
+Added Net: Name=NetJQB1_14
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetR11_2 Pin=T1-3
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetR16_1 Pin=T1-1
+Added Net: Name=NetR16_1
+Added Pin To Net: NetName=NetR18_2 Pin=T2-1
+Added Net: Name=NetR18_2
+Added Pin To Net: NetName=NetR19_2 Pin=T4-3
+Added Net: Name=NetR19_2
+Added Pin To Net: NetName=NetR20_1 Pin=T4-1
+Added Net: Name=NetR20_1
+Added Pin To Net: NetName=NetR20_2 Pin=U1-18
+Added Net: Name=NetR20_2
+Added Pin To Net: NetName=NetR21_2 Pin=T2-3
+Added Pin To Net: NetName=NetR21_2 Pin=T3-1
+Added Net: Name=NetR21_2
+Added Pin To Net: NetName=NetR23_2 Pin=T5-1
+Added Net: Name=NetR23_2
+Added Pin To Net: NetName=NetR24_2 Pin=T7-3
+Added Net: Name=NetR24_2
+Added Pin To Net: NetName=NetR25_1 Pin=T7-1
+Added Net: Name=NetR25_1
+Added Pin To Net: NetName=NetR25_2 Pin=U1-19
+Added Net: Name=NetR25_2
+Added Pin To Net: NetName=NetR26_2 Pin=T5-3
+Added Pin To Net: NetName=NetR26_2 Pin=T6-1
+Added Net: Name=NetR26_2
+Added Pin To Net: NetName=NetR28_2 Pin=T8-1
+Added Net: Name=NetR28_2
+Added Pin To Net: NetName=NetR29_2 Pin=T10-3
+Added Net: Name=NetR29_2
+Added Pin To Net: NetName=NetR30_1 Pin=T10-1
+Added Net: Name=NetR30_1
+Added Pin To Net: NetName=NetR30_2 Pin=U1-39
+Added Net: Name=NetR30_2
+Added Pin To Net: NetName=NetR31_2 Pin=T8-3
+Added Pin To Net: NetName=NetR31_2 Pin=T9-1
+Added Net: Name=NetR31_2
+Added Pin To Net: NetName=NetR33_2 Pin=T11-1
+Added Net: Name=NetR33_2
+Added Pin To Net: NetName=NetR34_2 Pin=T13-3
+Added Net: Name=NetR34_2
+Added Pin To Net: NetName=NetR35_1 Pin=T13-1
+Added Net: Name=NetR35_1
+Added Pin To Net: NetName=NetR35_2 Pin=U1-40
+Added Net: Name=NetR35_2
+Added Pin To Net: NetName=NetR36_2 Pin=T11-3
+Added Pin To Net: NetName=NetR36_2 Pin=T12-1
+Added Net: Name=NetR36_2
+Added Pin To Net: NetName=NetR40_2 Pin=T14-3
+Added Pin To Net: NetName=NetR40_2 Pin=T15-3
+Added Net: Name=NetR40_2
+Added Pin To Net: NetName=NetR43_2 Pin=T14-1
+Added Net: Name=NetR43_2
+Added Pin To Net: NetName=NetR47_2 Pin=U1-13
+Added Net: Name=NetR47_2
+Added Pin To Net: NetName=NetR48_1 Pin=U1-14
+Added Net: Name=NetR48_1
+Added Pin To Net: NetName=NetR48_2 Pin=T15-1
+Added Net: Name=NetR48_2
+Added Net: Name=NetR50_2
+Added Pin To Net: NetName=NRST Pin=U1-7
+Added Net: Name=NRST
+Added Pin To Net: NetName=OSC_IN Pin=U1-3
+Added Pin To Net: NetName=OSC_IN Pin=X1-1
+Added Net: Name=OSC_IN
+Added Pin To Net: NetName=OSC_OUT Pin=U1-4
+Added Pin To Net: NetName=OSC_OUT Pin=X1-3
+Added Net: Name=OSC_OUT
+Added Pin To Net: NetName=RX1 Pin=JQB1-21
+Added Net: Name=RX1
+Added Pin To Net: NetName=RX2 Pin=JQB1-24
+Added Net: Name=RX2
+Added Pin To Net: NetName=RX3 Pin=JQB1-27
+Added Net: Name=RX3
+Added Pin To Net: NetName=RX4 Pin=JQB1-30
+Added Net: Name=RX4
+Added Pin To Net: NetName=RX5 Pin=JQB1-33
+Added Net: Name=RX5
+Added Pin To Net: NetName=RX6 Pin=JQB1-36
+Added Net: Name=RX6
+Added Pin To Net: NetName=SenIN_1 Pin=U1-17
+Added Net: Name=SenIN_1
+Added Pin To Net: NetName=SenIN_2 Pin=U1-30
+Added Net: Name=SenIN_2
+Added Pin To Net: NetName=SenOUT_1 Pin=U1-29
+Added Net: Name=SenOUT_1
+Added Pin To Net: NetName=SenOUT_2 Pin=U1-31
+Added Net: Name=SenOUT_2
+Added Pin To Net: NetName=TX1 Pin=JQB1-20
+Added Net: Name=TX1
+Added Pin To Net: NetName=TX2 Pin=JQB1-23
+Added Net: Name=TX2
+Added Pin To Net: NetName=TX3 Pin=JQB1-26
+Added Net: Name=TX3
+Added Pin To Net: NetName=TX4 Pin=JQB1-29
+Added Net: Name=TX4
+Added Pin To Net: NetName=TX5 Pin=JQB1-32
+Added Net: Name=TX5
+Added Pin To Net: NetName=TX6 Pin=JQB1-35
+Added Net: Name=TX6
+Added Pin To Net: NetName=USB_N Pin=U1-33
+Added Net: Name=USB_N
+Added Pin To Net: NetName=USB_P Pin=U1-32
+Added Net: Name=USB_P
+Added Pin To Net: NetName=VBUS Pin=CN1-1
+Added Net: Name=VBUS
+Added Class: Name=U_IB_V2_AUDIO
+Added Class: Name=U_IB_V2_MCU
+Added Class: Name=U_IB_V2_MOSFET
+Added Class: Name=U_IB_V2_POWER
